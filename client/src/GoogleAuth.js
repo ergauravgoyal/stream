@@ -32,6 +32,7 @@ class GoogleAuth extends Component {
   onSignOutClick = () => {
     this.auth.signOut();
   };
+
   renderAuthButton = () => {
     if (this.props.isSignedIn === null) {
       return null;
