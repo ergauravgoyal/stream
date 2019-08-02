@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great stream",
+      "id": 1
+    },
+    {
+      "title": "A New Stream",
+      "description": "This is new stream",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "My Third Stream",
+      "id": 3
+    },
+    {
+      "title": "Stream 4",
+      "description": "Stream Fouth",
+      "userId": "113718083434506730345",
+      "id": 4
+    },
+    {
+      "title": "Sample",
+      "description": "Sample",
+      "userId": "113718083434506730345",
+      "id": 5
+    }
+  ]
+}
